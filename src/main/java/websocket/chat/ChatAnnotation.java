@@ -16,7 +16,7 @@
  *
  *  File from
  *  https://github.com/apache/tomcat/blob/trunk/webapps/examples/WEB-INF/classes/websocket/chat/ChatAnnotation.java
- *  but it has been modified to work across containers.
+ *  but is using org.slf4j logging to work better across containers.
  */
 package websocket.chat;
 
